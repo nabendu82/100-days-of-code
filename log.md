@@ -281,3 +281,98 @@
 
 **Link to work**
 [Youtube Video](https://www.youtube.com/watch?v=IqLrhYtvjy4)
+
+
+### Day 31: Oct 06, 2021
+
+**Today's Progress**: 𝐀𝐧𝐠𝐮𝐥𝐚𝐫 𝐓𝐮𝐭𝐨𝐫𝐢𝐚𝐥 - 𝟏𝟑 - 𝐇𝐓𝐓𝐏 - 𝐏𝐚𝐫𝐭 𝟐
+
+**Thoughts** In this video we will continue to learn HTTP requests in Angular. We are mainly going to convert our HTTP request from previous part to use services.
+
+**Link to work**
+[Youtube Video](https://www.youtube.com/watch?v=049umIJrSwk)
+
+### Day 32: Oct 07, 2021
+
+**Today's Progress**: 𝐑𝐞𝐜𝐢𝐩𝐞 𝐁𝐨𝐨𝐤 𝐚𝐩𝐩 𝐢𝐧 𝐀𝐧𝐠𝐮𝐥𝐚𝐫 𝟏𝟐 (𝐏𝐚𝐫𝐭 - 𝟐)
+
+**Thoughts** In this video we will add on top of the app we have create in the previous part.
+
+**Link to work**
+[Youtube Video](https://www.youtube.com/watch?v=_hgNoqMjlik)
+
+
+### Day 33: Oct 08, 2021
+
+**Today's Progress**: 𝐑𝐞𝐜𝐢𝐩𝐞 𝐁𝐨𝐨𝐤 𝐚𝐩𝐩 𝐢𝐧 𝐀𝐧𝐠𝐮𝐥𝐚𝐫 𝟏𝟐 (𝐏𝐚𝐫𝐭 -3)
+
+**Thoughts** In this video we will start with adding routing.
+
+**Link to work**
+[Youtube Video](https://www.youtube.com/watch?v=0sF7Dw_vXnE)
+
+### Day 34: Oct 09, 2021
+
+**Today's Progress**: 𝐅𝐮𝐥𝐥-𝐬𝐭𝐚𝐜𝐤 𝐀𝐩𝐩 𝐰𝐢𝐭𝐡 𝐑𝐞𝐚𝐜𝐭, 𝐀𝐢𝐫𝐭𝐚𝐛𝐥𝐞 𝐚𝐧𝐝 𝐍𝐞𝐭𝐥𝐢𝐟𝐲
+
+**Thoughts** In this video we will build a course tracker using React, Airtable and Netlify serverless functions. It will have full CRUD operations and will track all the courses, which we have and the courses we want to purchase in the future.
+
+**Link to work**
+[Youtube Video](https://www.youtube.com/watch?v=7qn1wPZaJZ8)
+
+### Day 35: Oct 10, 2021
+
+**Today's Progress**: 𝐅𝐮𝐥𝐥-𝐬𝐭𝐚𝐜𝐤 𝐀𝐩𝐩 𝐰𝐢𝐭𝐡 𝐑𝐞𝐚𝐜𝐭, 𝐀𝐢𝐫𝐭𝐚𝐛𝐥𝐞 𝐚𝐧𝐝 𝐍𝐞𝐭𝐥𝐢𝐟𝐲
+
+**Thoughts** In this video we will complete the course tracker using React, Airtable and Netlify serverless functions. We will also deploy the app in Netlify in this part.
+
+**Link to work**
+[Youtube Video](https://www.youtube.com/watch?v=aopoE4RdQ7c)
+
+
+### Day 36: Oct 11, 2021
+
+**Today's Progress**: 𝐑𝐞𝐜𝐢𝐩𝐞 𝐁𝐨𝐨𝐤 𝐚𝐩𝐩 𝐢𝐧 𝐀𝐧𝐠𝐮𝐥𝐚𝐫 𝟏𝟐 (𝐏𝐚𝐫𝐭 - 𝟒)
+
+**Thoughts** In this video we will add forms in our app, which we have build in the earlier part. We will add both template driven and reactive forms in our app.
+
+
+**Link to work**
+[Youtube Video](https://www.youtube.com/watch?v=AMdroODaU5A)
+
+
+### Day 37: Oct 12, 2021
+
+**Today's Progress**: 𝐑𝐞𝐜𝐢𝐩𝐞 𝐁𝐨𝐨𝐤 𝐚𝐩𝐩 𝐢𝐧 𝐀𝐧𝐠𝐮𝐥𝐚𝐫 𝟏𝟐 (𝐏𝐚𝐫𝐭 - 𝟓)
+
+**Thoughts** In this video we will add HTTP capabilities in our app.
+
+**Link to work**
+[Youtube Video](https://www.youtube.com/watch?v=8tuKXGc8iS8)
+
+### Day 38: Oct 13, 2021
+
+**Today's Progress**: 𝐌𝐮𝐬𝐢𝐜 𝐏𝐥𝐚𝐲𝐞𝐫 𝐮𝐬𝐢𝐧𝐠 𝐇𝐓𝐌𝐋, 𝐂𝐒𝐒, 𝐚𝐧𝐝 𝐉𝐒
+
+**Thoughts** In this video we are going to build a Music player from scratch using HTML, CSS and JavaScript
+
+**Link to work**
+[Youtube Video](https://www.youtube.com/watch?v=MaT3nUNwvEA)
+
+### Day 39: Oct 14, 2021
+
+**Today's Progress**: 𝐃𝐫𝐮𝐦 𝐤𝐢𝐭 𝐮𝐬𝐢𝐧𝐠 𝐇𝐓𝐌𝐋, 𝐂𝐒𝐒, 𝐚𝐧𝐝 𝐉𝐒
+
+**Thoughts** In this video we are going to build a simple drum kit using HTML, CSS, and JavaScript which will play the sound when the user press on particular key on the keyboard.
+
+**Link to work**
+[Youtube Video](https://www.youtube.com/watch?v=cNDcXFjY5Y8)
+
+### Day 40: Oct 15, 2021
+
+**Today's Progress**: 𝐀𝐧𝐚𝐥𝐨𝐠 𝐂𝐥𝐨𝐜𝐤 𝐮𝐬𝐢𝐧𝐠 𝐇𝐓𝐌𝐋, 𝐂𝐒𝐒, 𝐚𝐧𝐝 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭
+
+**Thoughts** In this video we are going to build an analog clock using HTML, CSS, and JavaScript.
+
+**Link to work**
+[Youtube Video](https://www.youtube.com/watch?v=F-8fTcH5wic)
