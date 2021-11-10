@@ -1,30 +1,97 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+## Along with #100daysofcode i am also doing #100daysofvideo challenge and learning and producing videos every day.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+### Day 1: Sep 06, 2021
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**: 𝐀𝐧𝐠𝐮𝐥𝐚𝐫 𝐓𝐮𝐭𝐨𝐫𝐢𝐚𝐥 - 𝟏
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Thoughts** In this video, I explained everything you need to get started with the Angular framework.
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link to work**
+[Youtube Video](https://www.youtube.com/watch?v=6D4ytt5q83w)
 
 
-### Day 1: June 27, Monday
+### Day 2: Sep 07, 2021
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: 𝐀𝐧𝐠𝐮𝐥𝐚𝐫 𝐓𝐮𝐭𝐨𝐫𝐢𝐚𝐥 - 2
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** In this video we start with different Component Selector. After that we will understand String Interpolation,  property Binding, Event Binding and Two-way binding.
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to work**
+[Youtube Video](https://www.youtube.com/watch?v=pjQ_Ah_bC_c)
+
+
+### Day 3: Sep 08, 2021
+
+**Today's Progress**: 𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝 𝐌𝐞𝐧𝐭𝐨𝐫𝐬 - 𝐈𝐧𝐬𝐮𝐫𝐞 𝐥𝐚𝐧𝐝𝐢𝐧𝐠 𝐩𝐚𝐠𝐞.
+
+**Thoughts** In this video i have created the Insure landing page from Frontend mentor.
+
+**Link to work**
+[Youtube Video](https://lnkd.in/gW2apeWW)
+
+
+### Day 4: Sep 09, 2021
+
+**Today's Progress**: 𝐀𝐧𝐠𝐮𝐥𝐚𝐫 𝐓𝐮𝐭𝐨𝐫𝐢𝐚𝐥 - 3
+
+**Thoughts** In this video we will take a project with all logic in a big file and convert it into smaller component and learn the way to pass data, between components.
+
+**Link to work**
+[Youtube Video](https://www.youtube.com/watch?v=SQ6AHUjwtN8)
+
+
+### Day 5: Sep 10, 2021
+
+**Today's Progress**: 𝐁𝐞𝐚𝐮𝐭𝐢𝐟𝐮𝐥 𝐇𝐓𝐌𝐋 𝐂𝐒𝐒 𝐰𝐞𝐛𝐬𝐢𝐭𝐞 𝐒𝐭𝐞𝐩 𝐛𝐲 𝐒𝐭𝐞𝐩
+
+**Thoughts** In this video i have created a simple and a beautiful website with HTML and CSS.
+
+**Link to work**
+[Youtube Video](https://www.youtube.com/watch?v=1QQ_jAefJbc)
+
+### Day 6: Sep 11, 2021
+
+**Today's Progress**: 𝐒𝐭𝐫𝐚𝐰𝐛𝐞𝐫𝐫𝐢𝐞𝐬 𝐂𝐨𝐦𝐩𝐚𝐧𝐲 𝐖𝐞𝐛𝐬𝐢𝐭𝐞 𝐮𝐬𝐢𝐧𝐠 𝐇𝐓𝐌𝐋 𝐂𝐒𝐒
+
+**Thoughts** In this video i have created a simple and a beautiful Strawberries comany website with HTML and CSS.
+
+**Link to work**
+[Youtube Video](https://www.youtube.com/watch?v=n51EubdcLs8)
+
+### Day 7: Sep 12, 2021
+
+**Today's Progress**: 𝐁𝐞𝐚𝐮𝐭𝐢𝐟𝐮𝐥 𝐋𝐨𝐠𝐢𝐧 𝐚𝐧𝐝 𝐑𝐞𝐠𝐢𝐬𝐭𝐫𝐚𝐭𝐢𝐨𝐧 𝐅𝐨𝐫𝐦 𝐰𝐢𝐭𝐡 𝐇𝐓𝐌𝐋 𝐚𝐧𝐝 𝐂𝐒𝐒
+
+**Thoughts** In this video i have created a beautiful Login and registration form with HTML and CSS.
+
+**Link to work**
+[Youtube Video](https://www.youtube.com/watch?v=V_0q4LSi910)
+
+### Day 8: Sep 13, 2021
+
+**Today's Progress**: 𝐓𝐫𝐚𝐯𝐞𝐥 𝐖𝐞𝐛𝐬𝐢𝐭𝐞 𝐔𝐬𝐢𝐧𝐠 𝐇𝐓𝐌𝐋 𝐂𝐒𝐒 𝐀𝐧𝐝 𝐁𝐨𝐨𝐭𝐬𝐭𝐫𝐚𝐩
+
+**Thoughts** In this video i have created a beautiful Login and registration form with HTML and CSS.
+
+**Link to work**
+[Youtube Video](https://www.youtube.com/watch?v=Bl3w-8FdB5Q)
+
+### Day 9: Sep 14, 2021
+
+**Today's Progress**:  𝐑𝐞𝐜𝐢𝐩𝐞 𝐁𝐨𝐨𝐤 𝐚𝐩𝐩 𝐢𝐧 𝐀𝐧𝐠𝐮𝐥𝐚𝐫-𝟏
+
+**Thoughts** In this video i have build a recipe book app by using the concepts of Angular we learnt earlier. 
+
+**Link to work**
+[Youtube Video](https://www.youtube.com/watch?v=lk0IbuXg5-c)
+
+### Day 10: Sep 15, 2021
+
+**Today's Progress**:  𝐁𝐞𝐚𝐮𝐭𝐢𝐟𝐮𝐥 𝐃𝐢𝐠𝐢𝐭𝐚𝐥 𝐂𝐥𝐨𝐜𝐤 𝐔𝐬𝐢𝐧𝐠 𝐇𝐓𝐌𝐋, 𝐂𝐒𝐒 & 𝐉𝐚𝐯𝐚𝐬𝐜𝐫𝐢𝐩𝐭
+
+**Thoughts** In this video i have created a beautiful Digital Clock Using HTML, CSS & JavaScript.
+ 
+**Link to work**
+[Youtube Video](https://www.youtube.com/watch?v=iNebI82TDas)
