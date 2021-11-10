@@ -376,3 +376,238 @@
 
 **Link to work**
 [Youtube Video](https://www.youtube.com/watch?v=F-8fTcH5wic)
+
+### Day 41: Oct 16, 2021
+
+**Today's Progress**: 𝐄𝐦𝐩𝐥𝐨𝐲𝐞𝐞 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭 𝐒𝐲𝐬𝐭𝐞𝐦 𝐰𝐢𝐭𝐡 𝐌𝐄𝐀𝐍 𝐬𝐭𝐚𝐜𝐤
+
+**Thoughts** In this video we are going to build an employee management application from scratch, with MEAN(MongoDB, Express, Angular, NodeJS) stack.
+
+**Link to work**
+[Youtube Video](https://www.youtube.com/watch?v=qB6hfyfv2Ak)
+
+### Day 42: Oct 17, 2021
+
+**Today's Progress**: 𝐀𝐧𝐠𝐮𝐥𝐚𝐫 𝟏𝟐 𝐍𝐞𝐰𝐬 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧
+
+**Thoughts** In this video we are going to build an Angular 12 News application from scratch. It will get the data from the famous new api.
+
+**Link to work**
+[Youtube Video](https://www.youtube.com/watch?v=5czWcxksHjc)
+
+### Day 43: Oct 18, 2021
+
+**Today's Progress**: 𝐅𝐨𝐥𝐥𝐨𝐰 𝐚𝐥𝐨𝐧𝐠 𝐍𝐚𝐯𝐢𝐠𝐚𝐭𝐢𝐨𝐧 𝐮𝐬𝐢𝐧𝐠 𝐇𝐓𝐌𝐋, 𝐂𝐒𝐒, 𝐚𝐧𝐝 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭
+
+**Thoughts** In this video we will build a simple project to show follow-along navigation
+
+**Link to work**
+[Youtube Video](https://www.youtube.com/watch?v=N1UfpwVHW_I)
+
+### Day 44: Oct 19, 2021
+
+**Today's Progress**: 𝐊𝐞𝐲 𝐒𝐞𝐪𝐮𝐞𝐧𝐜𝐞 𝐃𝐞𝐭𝐞𝐜𝐭𝐢𝐨𝐧 𝐮𝐬𝐢𝐧𝐠 𝐇𝐓𝐌𝐋, 𝐂𝐒𝐒, 𝐚𝐧𝐝 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭
+
+**Thoughts** In this video we are going to create a project to detect a given key sequence in the user input and react to that. 
+
+**Link to work**
+[Youtube Video](https://www.youtube.com/watch?v=unRIaIENMQc)
+
+### Day 45: Oct 20, 2021
+
+**Today's Progress**: 𝐂𝐨𝐮𝐧𝐭𝐝𝐨𝐰𝐧 𝐓𝐢𝐦𝐞𝐫 𝐮𝐬𝐢𝐧𝐠 𝐇𝐓𝐌𝐋, 𝐂𝐒𝐒, 𝐚𝐧𝐝 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭
+
+**Thoughts** In this video we will create a web page where we will place a countdown timer that informs us about when the discount sale will end. 
+
+**Link to work**
+[Youtube Video](https://www.youtube.com/watch?v=PPVqTYiKLSc)
+
+### Day 46: Oct 21, 2021
+
+**Today's Progress**: 𝐏𝐚𝐬𝐬𝐰𝐨𝐫𝐝 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐨𝐫 𝐮𝐬𝐢𝐧𝐠 𝐇𝐓𝐌𝐋, 𝐂𝐒𝐒, 𝐚𝐧𝐝 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭
+
+**Thoughts** In this video we are going to create a password generator, which generate passwords of different lengths and which can include or exclude special characters in the generated passwords based on user selection.  
+
+**Link to work**
+[Youtube Video](https://www.youtube.com/watch?v=Zd2MF3msdQM)
+
+### Day 47: Oct 22, 2021
+
+**Today's Progress**: 𝐕𝐚𝐧𝐢𝐥𝐥𝐚 𝐍𝐨𝐝𝐞.𝐉𝐒 𝐑𝐄𝐒𝐓 𝐀𝐏𝐈 𝐰𝐢𝐭𝐡𝐨𝐮𝐭 𝐄𝐱𝐩𝐫𝐞𝐬𝐬
+
+**Thoughts** In this video we are going to make a Vanilla Node.JS REST API without Express. ExpressJS is just a framework, which help to make NodeJS project simple. But NodeJS can be used on it's own also and this is what we will do in this stream.  
+
+**Link to work**
+[Youtube Video](https://www.youtube.com/watch?v=STgsobFriIw)
+
+### Day 48: Oct 23, 2021
+
+**Today's Progress**: 𝐋𝐞𝐚𝐫𝐧 𝐭𝐨 𝐂𝐫𝐞𝐚𝐭𝐞 𝐑𝐞𝐚𝐜𝐭 𝐍𝐚𝐭𝐢𝐯𝐞 𝐂𝐚𝐫𝐨𝐮𝐬𝐞𝐥𝐬
+
+**Thoughts** In this video we will learn to create a simple carousel with React Native. 
+
+**Link to work**
+[Youtube Video](https://www.youtube.com/watch?v=w9ZpDHRQRf4)
+
+### Day 49: Oct 24, 2021
+
+**Today's Progress**: 𝐋𝐞𝐚𝐫𝐧 𝐭𝐨 𝐂𝐫𝐞𝐚𝐭𝐞 𝐑𝐞𝐚𝐜𝐭 𝐍𝐚𝐭𝐢𝐯𝐞 𝐆𝐫𝐢𝐝
+
+**Thoughts** In this video we will learn to create a Grid System in React Native using Flatlist. 
+
+**Link to work**
+[Youtube Video](https://www.youtube.com/watch?v=6Hm05Ke4-N4)
+
+### Day 50: Oct 25, 2021
+
+**Today's Progress**: 𝐋𝐞𝐚𝐫𝐧 𝐭𝐨 𝐀𝐝𝐝 𝐒𝐨𝐮𝐧𝐝 𝐢𝐧 𝐑𝐞𝐚𝐜𝐭 𝐍𝐚𝐭𝐢𝐯𝐞 𝐀𝐩𝐩
+
+**Thoughts** In this video we’ll create a small xylophone app, which will play different sounds when a user presses different buttons. 
+
+**Link to work**
+[Youtube Video](https://www.youtube.com/watch?v=aY1srp_b49s)
+
+### Day 51: Oct 26, 2021
+
+**Today's Progress**: 𝐋𝐞𝐚𝐫𝐧 𝐭𝐨 𝐀𝐝𝐝 𝐌𝐚𝐩𝐬 𝐢𝐧 𝐑𝐞𝐚𝐜𝐭 𝐍𝐚𝐭𝐢𝐯𝐞 𝐀𝐩𝐩
+
+**Thoughts** In this video we will learn how to integrate Google Maps into a React Native app. 
+
+**Link to work**
+[Youtube Video](https://www.youtube.com/watch?v=SysDViXLB38)
+
+### Day 52: Oct 27, 2021
+
+**Today's Progress**: 𝟓 𝐂𝐮𝐬𝐭𝐨𝐦 𝐑𝐞𝐚𝐜𝐭𝐉𝐒 𝐇𝐨𝐨𝐤𝐬 𝐟𝐨𝐫 𝐞𝐯𝐞𝐫𝐲 𝐩𝐫𝐨𝐣𝐞𝐜𝐭
+
+**Thoughts** In this video we will create five awesome and simple custom hooks 
+
+**Link to work**
+[Youtube Video](https://www.youtube.com/watch?v=Y7L5Sygzd6Y)
+
+### Day 53: Oct 28, 2021
+
+**Today's Progress**: 𝐖𝐡𝐚𝐜𝐤 𝐚 𝐌𝐨𝐥𝐞 𝐆𝐚𝐦𝐞 𝐮𝐬𝐢𝐧𝐠 𝐇𝐓𝐌𝐋, 𝐂𝐒𝐒 𝐚𝐧𝐝 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭
+
+**Thoughts** In this video we will have some fun by building a Whack a Mole game using HTML, CSS, and JavaScript 
+
+**Link to work**
+[Youtube Video](https://www.youtube.com/watch?v=z0cKwzPF9cQ)
+
+### Day 54: Oct 29, 2021
+
+**Today's Progress**:  𝐋𝐞𝐚𝐫𝐧 𝐭𝐨 𝐀𝐝𝐝 𝐕𝐢𝐝𝐞𝐨𝐬 𝐢𝐧 𝐑𝐞𝐚𝐜𝐭 𝐍𝐚𝐭𝐢𝐯𝐞 𝐀𝐩𝐩
+
+**Thoughts** In this video we’re going to cover how to embed video in a React Native app. 
+
+**Link to work**
+[Youtube Video](https://www.youtube.com/watch?v=tH8vfiHYcA8)
+
+### Day 55: Oct 30, 2021
+
+**Today's Progress**:  𝐇𝐔𝐋𝐔 𝐂𝐥𝐨𝐧𝐞 𝐮𝐬𝐢𝐧𝐠 𝐇𝐓𝐌𝐋, 𝐂𝐒𝐒, 𝐚𝐧𝐝 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭
+
+**Thoughts** In this video we will build the landing page of hulu and get it looking as close to the design as possible. 
+
+**Link to work**
+[Youtube Video](https://www.youtube.com/watch?v=BAgf3L1RhNo)
+
+### Day 56: Oct 31, 2021
+
+**Today's Progress**:  𝐋𝐞𝐚𝐫𝐧 𝐭𝐨 𝐆𝐞𝐭 𝐃𝐞𝐯𝐢𝐜𝐞 𝐈𝐧𝐟𝐨 𝐢𝐧 𝐑𝐞𝐚𝐜𝐭 𝐍𝐚𝐭𝐢𝐯𝐞 𝐀𝐩𝐩
+
+**Thoughts** In this video we’ll learn to get various device information in a React Native app. 
+
+**Link to work**
+[Youtube Video](https://www.youtube.com/watch?v=xlqszsjEp5Q)
+
+### Day 57: Nov 01, 2021
+
+**Today's Progress**:  𝐋𝐞𝐚𝐫𝐧 𝐑𝐞𝐚𝐜𝐭 𝐑𝐞𝐝𝐮𝐱 𝐛𝐲 𝐛𝐮𝐢𝐥𝐝𝐢𝐧𝐠 𝐚𝐧 𝐞𝐜𝐨𝐦𝐦𝐞𝐫𝐜𝐞 𝐬𝐢𝐭𝐞
+
+**Thoughts** In this video we are going to learn React redux by building an amazing eCommerce project, which will do API call to get data. 
+
+**Link to work**
+[Youtube Video](https://www.youtube.com/watch?v=UuoTCvICpx8)
+
+### Day 58: Nov 02, 2021
+
+**Today's Progress**:  𝐋𝐞𝐚𝐫𝐧 𝐭𝐨 𝐜𝐫𝐞𝐚𝐭𝐞 𝐌𝐨𝐝𝐚𝐥𝐬 𝐢𝐧 𝐑𝐞𝐚𝐜𝐭 𝐍𝐚𝐭𝐢𝐯𝐞 𝐀𝐩𝐩
+
+**Thoughts** In this video we’ll learn to add a modal to our application. We’ll be using the in-built Modal component from React Native for this purpose. 
+
+**Link to work**
+[Youtube Video](https://www.youtube.com/watch?v=HvoZZOw6-gA)
+
+### Day 59: Nov 03, 2021
+
+**Today's Progress**:  Movie App using HTML, CSS, and JavaScript
+
+**Thoughts** In this video we are going to create trending Movies app using HTML, CSS, and JavaScript. 
+
+**Link to work**
+[Youtube Video](https://www.youtube.com/watch?v=Lxd21jXx8Xk)
+
+### Day 60: Nov 04, 2021
+
+**Today's Progress**:  HTML Basics in Hindi
+
+**Thoughts** In this video i have taught HTML Basics in Hindi. 
+
+**Link to work**
+[Youtube Video](https://www.youtube.com/watch?v=ER-67AvpBlE)
+
+### Day 61: Nov 05, 2021
+
+**Today's Progress**:  CSS Basics in Hindi - Part 1
+
+**Thoughts** In this video i have taught CSS Basics in Hindi. 
+
+**Link to work**
+[Youtube Video](https://www.youtube.com/watch?v=UM1CJ9BjXxs)
+
+### Day 62: Nov 06, 2021
+
+**Today's Progress**:  Web-development Workshop
+
+**Thoughts** This was a live 3 hours 𝗪𝗲𝗯-𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 𝘄𝗼𝗿𝗸𝘀𝗵𝗼𝗽, for absolute beginners to get into web-development. 
+
+**Link to work**
+[Youtube Video](https://www.youtube.com/watch?v=nBMIG3qVIqA)
+
+### Day 63: Nov 07, 2021
+
+**Today's Progress**:  CSS Basics in Hindi - Part 2
+
+**Thoughts** This is the second day in which i teach CSS Basics in Hindi
+
+**Link to work**
+[Youtube Video](https://www.youtube.com/watch?v=yVn1ML3I6ZU)
+
+### Day 64: Nov 08, 2021
+
+**Today's Progress**:  CSS Basics in Hindi - Part 3
+
+**Thoughts** This is the third day in which i teach CSS Basics in Hindi
+
+**Link to work**
+[Youtube Video](https://www.youtube.com/watch?v=yT3hw6MUbQI)
+
+
+### Day 65: Nov 09, 2021
+
+**Today's Progress**:  CSS Beginner to Advanced | Day 2
+
+**Thoughts** Three weeks of intense live learning, which will take you from beginners to an Advanced web-app developer.
+
+**Link to work**
+[Youtube Video](https://www.youtube.com/watch?v=PF159Y9QG-k)
+
+### Day 66: Nov 10, 2021
+
+**Today's Progress**:  CSS Basics in Hindi - Part 4
+
+**Thoughts** This is the fourth day in which i teach CSS Basics in Hindi
+
+**Link to work**
+[Youtube Video](https://www.youtube.com/watch?v=zBt_PLwus8M)
